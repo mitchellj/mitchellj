@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mitchellj
-- 👀 I’m interested in cybersecurity, devops solutions, analytics. 
-- 🌱 I’m currently learning cybersecurity, because you can never stop learning it!
+- 👀 I’m interested in cybersecurity, devops solutions, analytics and data engineering
 - 📫 How to reach me mitchellj at a popular email service ran by google.com
 
 <!---
